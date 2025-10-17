@@ -7,9 +7,9 @@ He is currently a master at Southeast University.
 Email: calledlidali@gmail.com
 
 #### Education
-M.E.,  Instrument Science and Technology, Southeast University, 2023—2026.\
+M.E., Southeast University, 2023—2026.\
 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, Robotics,  Signal Processing, Model Predictive Control.
+Deep Learning, Artificial Intelligence, ,  Computer Vision.
 
