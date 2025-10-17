@@ -11,5 +11,5 @@ M.E., Southeast University, 2023—2026.\
 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, ,  Computer Vision.
+Deep Learning, Artificial Intelligence, Computer Vision.
 
