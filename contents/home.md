@@ -3,7 +3,7 @@
 He is currently a master at Southeast University.
 
 #### Contact
-Email: calledlidali@gmail.com
+Email: 
 
 #### Education
 M.E., Southeast University, 2023—2026.\
